@@ -1,4 +1,4 @@
-FROM Python:3.5-alpine
+FROM python:3.5-alpine
 
 ENV ver 1
 
